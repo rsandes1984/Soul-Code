@@ -1,0 +1,54 @@
+.promocao{
+    text-align: center;
+    color: #737373;
+}
+.navbar-brand{
+    color: #737373;
+}
+
+.rodrigal{
+    color: #737373;
+}
+
+.fone{
+    text-align: center;
+}
+ .note{
+    text-align: center;
+ }
+ .refrigerador{
+    text-align: center;
+ }
+.fone2{
+    text-align: center;
+}
+.refrigerador2{
+    text-align: center;
+}
+.tv{
+    text-align: center;
+}
+.comprar{
+    display: inline-block
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#links{
+    display: inline-block;
+    width: 300px;
+    padding-top: 50%;
+    margin-right: 50%;
+    border: 0px solid;
+}
+
+.footer{
+    border: 0px solid;
+}
+
+
+.registre{
+    color: #737373;
+    text-align: center;
+}
