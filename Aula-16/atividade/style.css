@@ -1,0 +1,36 @@
+{
+    box sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    padding: 0 px;
+}
+
+main {
+    width: 100%;
+    min-height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width: 200px;
+    height: 130px;
+    object-fit: cover;
+}
+
+div{
+    width: 600px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#principal {
+    width: 100%;
+    display: flex;
+    
+
+}
